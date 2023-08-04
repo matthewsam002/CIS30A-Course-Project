@@ -1,3 +1,5 @@
+Sample output
+
 ('Expense List:', {'eletric': 120, 'gas': 300, 'water': 175})
 Expenses: $595
 Budget: $300.0
